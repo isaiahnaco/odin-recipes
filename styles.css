@@ -1,0 +1,28 @@
+body {
+  background: lightgoldenrodyellow;
+  font-family: "Brush Script MT", serif;
+}
+
+.list {
+    box-sizing: border-box;
+    display: inline-block;
+    background-color: white;
+    border: 3px solid black;
+    width: 250px;
+    height: auto;
+    padding: 5px 25px;
+}
+
+.homebtn {
+    box-sizing: border-box;
+    background-color: white;
+    border: 3px solid black;
+    padding: 5px;
+    text-align: center;
+    font-size: 32px;
+}
+
+img {
+    border: 3px solid black;
+}
+
